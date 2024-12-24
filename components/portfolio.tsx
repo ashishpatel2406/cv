@@ -230,7 +230,7 @@ export function PortfolioComponent() {
                       size="icon"
                       onClick={() =>
                         window.open(
-                          "https://drive.google.com/file/d/1ro3JsM3nf0CBCIBWg2RwOcEVO5YVIBD3/view?usp=sharing",
+                          "https://drive.google.com/file/d/1XdQSSj6QZwl_TqQ9VGBW12loB309GPr3/view?usp=sharing",
                           "_blank"
                         )
                       }
